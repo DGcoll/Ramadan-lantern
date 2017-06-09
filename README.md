@@ -1,2 +1,0 @@
-# Ramadan-lantern
-animation
